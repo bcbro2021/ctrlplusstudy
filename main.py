@@ -369,7 +369,7 @@ class MainWindow(QWidget):
         
         shop_header_layout.addStretch(1)
         
-        shop_title = QLabel("Soul Society Shop")
+        shop_title = QLabel("Gift Shop")
         shop_title.setStyleSheet("font-size: 24px; font-weight: bold;")
         shop_header_layout.addWidget(shop_title)
         
