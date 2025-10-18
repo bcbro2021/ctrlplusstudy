@@ -1,0 +1,26 @@
+{
+    "total_points": 170,
+    "subject_status": {
+        "MONDAY:MATH": true,
+        "MONDAY:PHY": true,
+        "MONDAY:CHEM": true,
+        "TUESDAY:CS": true,
+        "TUESDAY:MATH": true,
+        "TUESDAY:PHY": true,
+        "WEDNESDAY:ENG": true,
+        "WEDNESDAY:Psycho": true,
+        "WEDNESDAY:PHY": true,
+        "WEDNESDAY:CHEM": true,
+        "THURSDAY:PHY": true,
+        "THURSDAY:CHEM": true,
+        "FRIDAY:MATH": true,
+        "FRIDAY:CS": true,
+        "SATURDAY:PHY": true,
+        "SATURDAY:ENG": true,
+        "SATURDAY:CHEM": true
+    },
+    "unlocked_items": [
+        "char_1",
+        "char_4"
+    ]
+}

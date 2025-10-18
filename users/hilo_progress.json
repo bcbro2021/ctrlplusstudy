@@ -1,0 +1,17 @@
+{
+    "total_points": 130,
+    "subject_status": {
+        "WEDNESDAY:ENG": true,
+        "WEDNESDAY:Psycho": true,
+        "WEDNESDAY:PHY": true,
+        "MONDAY:MATH": true,
+        "MONDAY:PHY": true,
+        "TUESDAY:CS": true,
+        "TUESDAY:MATH": true,
+        "TUESDAY:CHEM": true
+    },
+    "unlocked_items": [
+        "char_1",
+        "char_2"
+    ]
+}

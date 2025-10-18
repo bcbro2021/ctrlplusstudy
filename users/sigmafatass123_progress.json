@@ -1,0 +1,15 @@
+{
+    "total_points": 70,
+    "subject_status": {
+        "Monday:CHEM": true,
+        "Tuesday:PHY": true,
+        "Wednesday:CHEM": true,
+        "Thursday:CHEM": true,
+        "Friday:CS": true,
+        "Saturday:CHEM": true
+    },
+    "unlocked_items": [
+        "char_2",
+        "char_1"
+    ]
+}
