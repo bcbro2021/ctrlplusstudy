@@ -42,3 +42,21 @@ To run this application, you must have the following installed:
 
 Install the required Python packages using pip:
 
+```bash
+  pip install PyQt5 google-genai
+```
+
+### Execution
+1. api key should be provided first
+
+2. Run main.py from your terminal
+
+### First Time Setup
+
+1. **Enter Username:** On the startup screen, enter a unique username. This name is used to load your previous progress or start a new session.
+
+2. **Load Timetable:** Navigate to the Image Loader and upload a clear photo of your school or study timetable.
+
+3. **Start Studying:** Once processed, navigate to the To-Do list, complete tasks, and earn points!
+
+**Note on Progress:** Progress (Points, Subject Status, Unlocks) is saved to a local JSON file in a directory named `users/` under the format `[your_username]_progress.json`.
